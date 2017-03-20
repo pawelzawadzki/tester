@@ -1,0 +1,11 @@
+D:\visualstudio\Tester1\Tester1\obj\Debug\Tester1.csprojResolveAssemblyReference.cache
+D:\visualstudio\Tester1\Tester1\obj\Debug\Tester1.Form1.resources
+D:\visualstudio\Tester1\Tester1\obj\Debug\Tester1.Properties.Resources.resources
+D:\visualstudio\Tester1\Tester1\obj\Debug\Tester1.csproj.GenerateResource.Cache
+D:\visualstudio\Tester1\Tester1\bin\Debug\Resources\quest_log.ldf
+D:\visualstudio\Tester1\Tester1\bin\Debug\Resources\quest.mdf
+D:\visualstudio\Tester1\Tester1\bin\Debug\Tester1.exe.config
+D:\visualstudio\Tester1\Tester1\bin\Debug\Tester1.exe
+D:\visualstudio\Tester1\Tester1\bin\Debug\Tester1.pdb
+D:\visualstudio\Tester1\Tester1\obj\Debug\Tester1.exe
+D:\visualstudio\Tester1\Tester1\obj\Debug\Tester1.pdb
